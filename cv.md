@@ -4,6 +4,9 @@
 * telegram: @estisui
 * github: @Estisui
 
+## Location
+Moscow
+
 ## About
 20 y.o. Studying business informatics at university and  finding it quite boring
 
