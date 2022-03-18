@@ -21,7 +21,7 @@ function solution(str, ending){
 None
 
 ## Education
-2023 Financial university 🙄 / IT and big data analysis faculty
+2023 Financial university 🙄 / IT and big data analysis faculty (3/4 completed)
 
 ## English level
 B2-C1 + Cambridge FCE certificate
